@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /blog
 google_analytics: 'UA-56161154-1'
 disqus: 'alex-podobnik'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://alexpodobnik.us3.list-manage.com/subscribe/post?u=ea45d3f41f712d2c5c43f3f99&amp;id=e71d11809d'
 include: ["_pages"]
 permalink: /:title/
 timezone: America/New_York
